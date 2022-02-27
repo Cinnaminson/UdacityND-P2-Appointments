@@ -1,8 +1,8 @@
-# Udacity Data Analyst Nanodegree - Project2: Investigating Medical Appointment No-Shows in Brazil  
+# Udacity Data Analyst Nanodegree - Project 2: Investigating Medical Appointment No-Shows in Brazil  
 
 ## Overview
 
-This is a project from the Udacity Analyst Nanodegree program.
+This is the second project from the Udacity Data Analyst Nanodegree Program.
 
 This project was developed in 2020 during the Nanodegree and it is no longer maintained. 
 
