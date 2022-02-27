@@ -1,4 +1,6 @@
-# UdacityNanodegree/Project2: Investigating Medical Appointment No-Shows in Brazil
+# UdacityNanodegree  
+
+Project2: Investigating Medical Appointment No-Shows in Brazil  
 
 ## Overview
 
